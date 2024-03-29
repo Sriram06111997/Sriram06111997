@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sriram06111997.github.io/Portfolio1/](https://sriram06111997.github.io/Portfolio1/)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
