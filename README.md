@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sriram T</h1>
-<h3 align="center">A passionate Advance Python with Django</h3>
+<h3 align="center">A passionate Advanced Python with Django</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriram06111997" alt="sriram06111997" /></a> </p>
 
